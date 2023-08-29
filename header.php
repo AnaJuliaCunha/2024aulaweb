@@ -19,6 +19,7 @@
                     <li class="nav-item"><a class="nav-link" href="sobre.php">Sobre</a></li>
                     <li class="nav-item"><a class="nav-link" href="Servicos.php">Serviços</a></li>
                     <li class="nav-item"><a class="nav-link" href="contato.php">Contato</a></li>
+                    <li class="nav-item"><a class="nav-link" href="avaliacao.php">Avaliação</a></li>
                 </ul>
             </nav>
     </header>

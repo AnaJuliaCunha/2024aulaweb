@@ -8,6 +8,7 @@
                 <li class="menu nav"><a href="serviços.php">Serviços</a></li>
                 <li class="menu nav"><a href="portifólio.php">Portifólio</a></li>
                 <li class="menu nav"><a href="contato.php">Contato</a></li>
+                <li class="menu nav"><a href="servico.php">Avaliação</a></li>
             </ul>
         </nav>
 
